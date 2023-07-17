@@ -2,7 +2,9 @@
 # postgrsql-14_ubuntu_22-04
 sudo apt update && sudo apt -y full-upgrade
 [ -f /var/run/reboot-required ] && sudo reboot -f
+```
 
+```
 sudo apt install vim curl wget gpg gnupg2 software-properties-common apt-transport-https lsb-release ca-certificates
 $ apt policy postgresql
 curl -fsSL https://www.postgresql.org/media/keys/ACCC4CF8.asc|sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/postgresql.gpg
