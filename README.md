@@ -1,3 +1,4 @@
+```
 # postgrsql-14_ubuntu_22-04
 sudo apt update && sudo apt -y full-upgrade
 [ -f /var/run/reboot-required ] && sudo reboot -f
@@ -19,3 +20,4 @@ https://askubuntu.com/questions/32730/how-to-remove-postgres-from-my-installatio
 =========================
 Ubuntu 20_04
 https://techviewleo.com/how-to-install-postgresql-database-on-ubuntu/
+```
